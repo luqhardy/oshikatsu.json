@@ -6,7 +6,7 @@
     "oshi_org_en": "Strawberry Prince",
     "oshi_org_jp": "すとぷり",
     "oshi_mark": "🐶❤️",
-    "oshi_start_date": "2021-01-01"
+    "oshi_start_date": "2021-08-04"
   },
   {
     "order_id": 2,
@@ -15,7 +15,7 @@
     "oshi_org_en": "Utaite",
     "oshi_org_jp": "歌い手",
     "oshi_mark": "🤍",
-    "oshi_start_date": "2019-10-01"
+    "oshi_start_date": "2019-12-04"
   },
   {
     "order_id": 3,
@@ -24,6 +24,15 @@
     "oshi_org_en": "Made In Abyss",
     "oshi_org_jp": "メイドインアビス",
     "oshi_mark": "🤖",
-    "oshi_start_date": "2020-09-20"
+    "oshi_start_date": "2020-09-04"
+  },
+    {
+    "order_id": 5,
+    "oshi_name_en": "Suzuki Masaru",
+    "oshi_name_jp": "鈴木勝",
+    "oshi_org_en": "Nijisanji",
+    "oshi_org_jp": "にじさんじ",
+    "oshi_mark": "☪️",
+    "oshi_start_date": "2025-04-08"
   }
 ]
