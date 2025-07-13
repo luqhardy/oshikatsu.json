@@ -42,7 +42,7 @@ const OshiCard: React.FC<{ oshi: Oshi }> = ({ oshi }) => {
           {oshi.oshi_mark}
         </div>
         <div>
-          <p className="text-2xl font-bold text-gray-800">{oshi.oshi_name_jp} <span className="text-lg font-normal text-gray-00">{oshi.oshi_org_jp}</span></p>
+          <p className="text-2xl font-bold text-gray-800">{oshi.oshi_name_jp} <span className="text-lg font-normal text-gray-400">{oshi.oshi_org_jp}</span></p>
           <p className="text-lg text-gray-600">{oshi.oshi_name_en} <span className="text-base text-gray-400">{oshi.oshi_org_en}</span></p>
         </div>
       </div>
