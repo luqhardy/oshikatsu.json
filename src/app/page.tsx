@@ -82,7 +82,7 @@ export default async function Page() {
           {/* Header Section */}
           <header className="text-white text-left mb-8">
             <h1 className="text-5xl sm:text-6xl font-bold tracking-tight">
-              Luqman Hadi's
+              Luqman Hadi&apos;s
             </h1>
             <h2 className="text-5xl sm:text-6xl font-bold tracking-tight text-white/80">
               Oshikatsu Information
