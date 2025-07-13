@@ -76,7 +76,7 @@ export default async function Page() {
 
   return (
     <>
-      <main className="min-h-screen bg-gradient-to-br from-pink-400 to-rose-500 font-sans p-4 sm:p-8 flex flex-col items-center">
+      <main className="min-h-screen bg-gradient-to-br from-pink-400 to-rose-500 font-sans p-6 sm:p-10 flex flex-col items-center">
         <div className="w-full max-w-2xl mx-auto">
           
           {/* Header Section */}
